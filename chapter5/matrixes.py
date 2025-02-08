@@ -1,4 +1,6 @@
 from vectors import *
+from teapot import load_triangles
+
 
 def matrix_multiply(a, b):
     return tuple(
